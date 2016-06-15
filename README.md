@@ -20,7 +20,7 @@ A collection of Pry add-ons for Rails, based on Spirit Fingers with updated depe
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'spirit_fingers', :group => :development
+gem 'the_shocker', :group => :development
 ```
 
 And then execute:
@@ -29,7 +29,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install spirit_fingers
+    $ gem install the_shocker
 
 ## Useful ~/.pryc Config
 Adding the following to your ~/.pryc will set some nice default configurations for the plugin:
