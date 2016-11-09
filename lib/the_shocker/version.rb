@@ -1,3 +1,3 @@
 module TheShocker
-  VERSION = '0.1.22'
+  VERSION = '0.3'
 end
